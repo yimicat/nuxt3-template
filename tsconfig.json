@@ -1,0 +1,5 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  // TS 编译器选项
+  "compilerOptions": {}
+}
