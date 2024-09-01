@@ -7,6 +7,7 @@ export default {
   // @see: https://commitlint.js.org/#/reference-rules
   rules: {
     // @see: https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
+    // @see: https://github.com/conventional-changelog/commitlint/#what-is-commitlint
     'type-enum': [
       2,
       'always',
